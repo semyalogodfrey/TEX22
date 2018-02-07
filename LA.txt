@@ -1,0 +1,113 @@
+Titles should
+Describe contents clearly and precisely, so that readers can decide whether to read the report
+
+Provide key words for indexing
+
+Titles should NOT
+Include wasted words such as "studies on," "an investigation of"
+
+Use abbreviations and jargon
+
+Use "cute" language
+
+Good Titles
+The Relationship of Luteinizing Hormone to Obesity in the Zucker Rat
+
+Poor Titles
+An Investigation of Hormone Secretion and Weight in Rats
+Fat Rats: Are Their Hormones Different?
+
+
+
+
+
+The Abstract
+The guidelines below address issues to consider when writing an abstract
+
+What is the report about, in miniature and without specific details?
+State main objectives. (What did you investigate? Why?)
+Describe methods. (What did you do?)
+Summarize the most important results. (What did you find out?)
+State major conclusions and significance. (What do your results mean? So what?)
+What to avoid:
+Do not include references to figures, tables, or sources.
+Do not include information not in report.
+Additional tips:
+Find out maximum length (may vary from 50 to 300+ words).
+Process: Extract key points from each section. Condense in successive revisions.
+
+
+
+The Introduction
+Guidelines for effective scientific report introductions.
+
+What is the problem?
+Describe the problem investigated.
+Summarize relevant research to provide context, key terms, and concepts so your reader can understand the experiment.
+Why is it important?
+Review relevant research to provide rationale. (What conflict or unanswered question, untested population, untried method in existing research does your experiment address? What findings of others are you challenging or extending?)
+What solution (or step toward a solution) do you propose?
+Briefly describe your experiment: hypothesis(es), research question(s); general experimental design or method; justification of method if alternatives exist.
+Additional tips:
+Move from general to specific: problem in real world/research literature --> your experiment.
+Engage your reader: answer the questions, "What did you do?" "Why should I care?"
+Make clear the links between problem and solution, question asked and research design, prior research and your experiment.
+Be selective, not exhaustive, in choosing studies to cite and amount of detail to include. (In general, the more relevant an article is to your study, the more space it deserves and the later in the Introduction it appears.)
+Ask your instructor whether to summarize results and/or conclusions in the Introduction.
+
+
+
+Results Section
+The section below offers some questions asked for effective results sections in scientific reports.
+
+What did you observe?
+For each experiment or procedure:
+
+Briefly describe experiment without detail of Methods section (a sentence or two).
+Report main result(s), supported by selected data:
+Representative: most common
+Best Case: best example of ideal or exception
+Additional tips:
+Order multiple results logically:
+from most to least important
+from simple to complex
+organ by organ; chemical class by chemical class
+Use past tense to describe what happened.
+What to avoid:
+Don't simply repeat table data; select.
+Don't interpret results.
+Avoid extra words: "It is shown in Table 1 that X induced Y" --> "X induced Y (Table 1)."
+ 
+
+Discussion Section
+The table below offers some questions effective discussion sections in scientific reports address.
+
+What do your observations mean?
+Summarize the most important findings at the beginning.
+What conclusions can you draw?
+For each major result:
+
+Describe the patterns, principles, relationships your results show.
+Explain how your results relate to expectations and to literature cited in your Introduction. Do they agree, contradict, or are they exceptions to the rule?
+Explain plausibly any agreements, contradictions, or exceptions.
+Describe what additional research might resolve contradictions or explain exceptions.
+How do your results fit into a broader context?
+Suggest the theoretical implications of your results.
+Suggest practical applications of your results?
+Extend your findings to other situations or other species.
+Give the big picture: do your findings help us understand a broader topic?
+Additional tips:
+Move from specific to general: your finding(s) --> literature, theory, practice.
+Don't ignore or bury the major issue. Did the study achieve the goal (resolve the problem, answer the question, support the hypothesis) presented in the Introduction?
+Make explanations complete.
+Give evidence for each conclusion.
+Discuss possible reasons for expected and unexpected findings.
+What to avoid:
+Don't overgeneralize.
+Don't ignore deviations in your data.
+Avoid speculation that cannot be tested in the foreseeable future.
+ 
+
+
+
+
